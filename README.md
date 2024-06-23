@@ -87,15 +87,25 @@ Model Selection: Simpler models like Linear Regression (with or without regulari
 
 
 Capstone Project Walkthrough
+
 Step 1: Understanding the Goal Clearly define the objective of the analysis.
+
 Step 2: Gathering Data Collect relevant data from the FAOSTAT database.
+
 Step 3: Setting up the Environment and Libraries Prepare the analytical environment and necessary libraries.
+
 Step 4: Data Preprocessing and Cleaning Handle missing values, filter relevant columns, and transform data types.
+
 Step 5: Calculating Composite Scores and Normalization Calculate composite scores and normalize the data for analysis.
+
 Step 6: Ranking Countries Rank countries based on key agricultural metrics.
+
 Step 7: Visualizing Results Create visualizations to illustrate trends and findings.
+
 Step 8: Model Building and Hyperparameter Tuning Build and tune models to analyze the data and make predictions.
+
 Step 9: Conclusion for the Best Model Select the best model without overfitting or underfitting the data.
+
 Step 10: Medium Post Summarization Summarize the project in a detailed Medium post.
 
 Medium Post: Uncovering Agricultural Trends and Opportunities with FAOSTAT Data
