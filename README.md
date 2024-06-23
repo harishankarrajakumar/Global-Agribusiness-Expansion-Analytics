@@ -20,24 +20,42 @@ Risks, Limitations, and Assumptions:
 
 Summary of Statistical Analysis
 Implementation:
+
 •	Data Acquisition: The FAOSTAT dataset was imported and pre-processed for analysis.
+
 •	Data Transformation: Key metrics (area harvested, yield, and production volumes) were extracted and cleaned for analysis.
+
 •	Statistical Methods: Descriptive statistics and trend analysis were performed to identify significant patterns and opportunities.
+
 Evaluation:
+
 •	Descriptive Statistics: Summarized the data to understand the central tendencies and variability of key metrics.
+
 •	Trend Analysis: Identified growth trends and significant changes in agricultural productivity over time.
+
 Inference:
 •	Growth Trends: Certain countries and crops exhibit consistent growth, indicating potential markets for expansion.
+
 •	Productivity Analysis: Regions with improving yield and production volumes suggest areas with robust agricultural capabilities.
+
 Data Acquisition and Transformation
+
 Data Acquisition: Data was acquired from the FAOSTAT database, focusing on relevant agricultural metrics.
+
 Data Transformation:
+
 •	Exploratory Data Analysis: Visualized and explored key metrics.
+
 •	Handling Missing Values: Imputation or removal of missing values.
+
 •	Data Type Conversion: Converted data types as necessary for analysis.
+
 •	Trend Analysis: Analyzed trends over time.
+
 •	Descriptive Statistics: Summarized the data.
+
 Model Selection and Optimization
+
 Model Evaluation:
 •	Linear Regression Models: Both baseline and tuned models performed exceptionally well with an R-squared of 1.0, indicating a perfect fit and suggesting a highly linear dataset.
 o	Baseline Model:
